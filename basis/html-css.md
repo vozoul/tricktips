@@ -63,7 +63,7 @@ Et ce termine ainsi
 |              | la balise                      |                                                                                     |
 | :----------- | :----------------------------- | :---------------------------------------------------------------------------------- |
 | `<élément>`  | ouverture d'une balise         | creation d'un élément html                                                          |
-| `attr="..."` | les attributs de notre élément | des options (on parlera de `propriétés` ou `attributs`) qui s'appliques à l'élément avec la syntaxe suivante : `{nom_attribut}="{valeur_attribut}"` |
+| `attr="..."` | les attributs de notre élément | des options (on parlera de `propriétés` ou `attributs`) qui s'appliques à l'élément avec la syntaxe suivante : `{nom_attribut}="{valeur_attribut}"` **ils se situent toujours `dans` la partie ouvrante de la balise** |
 | `{contenu}`  | Le contenu de la balise        | le contenu peut-être d'autres balises imbriqués, du texte, etc...                   |
 | `</élément>` | fermeture d'une balise         | l'éléments s'arrête ici                                                             |
 
@@ -328,7 +328,7 @@ pour le CSS plusieur méthodes d'appel sont utilisés
 ```
 ```CSS
 /* fichier.css */
-// utilise la classe de notre éléments ici : text_rouge
+// utilise la classe de notre éléments ici : text_bleu
 .text_bleu {
   color: #0000FF;
 }
