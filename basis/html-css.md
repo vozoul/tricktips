@@ -280,7 +280,7 @@ pour le CSS plusieur méthodes d'appel sont utilisés
   dans les attribut de l'élément
 
   ```code
-    <div ... style="color: #FF0000;" ... > contenu </div>
+    <div ... style="background-color: #FF0000;" ... > contenu </div>
   ```
 
 - Interne
@@ -289,7 +289,7 @@ pour le CSS plusieur méthodes d'appel sont utilisés
 
   ```code
   <head>
-    <script type="text/css">... #rouge { color: #FF0000; }</script>`
+    <script type="text/css">... #rouge { background-color: #FF0000; }</script>`
     ...
   ```
 
@@ -310,27 +310,27 @@ pour le CSS plusieur méthodes d'appel sont utilisés
   <script type="text/css">
     // utilise l'attribut id de l'élément ici : rouge
     #vert {
-      color: #00FF00;
+      background-color: #00FF00;
     }
   </script>
 </head>
 <body>
   <div id="vert">
-    contenu vert
+    vert
   </div>
-  <div style="color:#FF0000;">
-    contenu rouge
+  <div style="background-color:#FF0000;">
+    rouge
   </div>
   <div class="text_bleu">
-    contenu bleu
+    bleu
   </div>
 </body>
 ```
 ```CSS
 /* fichier.css */
 // utilise la classe de notre éléments ici : text_rouge
-.text_bleu {
-  color: #0000FF;
+.text_gray {
+  background-color: #6f6f6f;
 }
 ```
 
@@ -338,15 +338,27 @@ pour le CSS plusieur méthodes d'appel sont utilisés
 exemple:
 
 tous les exemple donne exactement ceci:
-<div style="color:#00FF00;">
-  contenu vert
+<div style="background-color:#00FF00;">
+  vert
 </div>
 <div  style="color:#FF0000;">
-  contenu rouge
+  rouge
 </div>
-<div  style="color:#0000FF;">
-  contenu bleu
+<div  style="color:#6f6f6f;">
+  bleu
 </div>
+
+test
+```diff
++ contenu vert
+- contenu rouge
+# contenu gris
+```
+
+test II
+![#00FF00](https://via.placeholder.com/20/00ff00/ffffff?text=vert)
+![#FF0000](https://via.placeholder.com/20/ff0000/000000?text=rouge)
+![#6F6F6F](https://via.placeholder.com/20/6f6f6f/ffffff?text=gris)
 
 ***
 
