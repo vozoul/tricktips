@@ -1,4 +1,4 @@
-# TRICKS & TIPS - HTML / CSS
+# TRICKS & TIPS - Html / Css
 **Par Vandekerckhove Vincent**
 
 **Première édition : 28/07/2020**
