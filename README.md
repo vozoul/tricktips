@@ -16,7 +16,7 @@ je me permettrais de detailler progressivement
 ## Sommaire
 
 ### Les bases
-- [html / css](concept_basis/html-css.md)
+- [html / css](basis/html-css.md)
 - à venir
 
 ### En allant plus loin
