@@ -12,9 +12,9 @@ je me permettrais de detailler progressivement
 
 ## Sommaire
 
-### Les bases
+### [Les bases](basis/README.md)
 - [html / css](basis/html-css.md)
 - à venir
 
-### En allant plus loin
+### [En allant plus loin](detailed/README.md)
 - à venir
