@@ -339,9 +339,9 @@ exemple:
 
 tous les exemple donne exactement ceci:
 
-![#00FF00](https://via.placeholder.com/100x25/00ff00/ffffff?text=vert)
-![#FF0000](https://via.placeholder.com/100x25/ff0000/000000?text=rouge)
-![#6F6F6F](https://via.placeholder.com/100x25/6f6f6f/ffffff?text=gris)
+![#00FF00](https://via.placeholder.com/100x30/00ff00/ffffff?text=vert)
+![#FF0000](https://via.placeholder.com/100x30/ff0000/000000?text=rouge)
+![#6F6F6F](https://via.placeholder.com/100x30/6f6f6f/ffffff?text=gris)
 
 ***
 
