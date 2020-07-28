@@ -1,6 +1,6 @@
 # Bases
 
-Ce dossier contiens les bases sur les différents technologies et/ou outils abordés par **TRICKS & TIPS**
+Ce dossier contient les bases sur les différents technologies et/ou outils abordés par **TRICKS & TIPS**
 
 ## Les languages
 
