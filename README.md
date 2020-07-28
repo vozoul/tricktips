@@ -1,17 +1,14 @@
 # Trick & tips
-**par Vandekerckhove Vincent - Première edition 28/07/2020**
+## `Be interested in technology`
 
-## prologue
-trick & tips,
+**Par Vandekerckhove Vincent - Première edition 28/07/2020**
 
-N'as pas pour prétention de vous former sur les techologies et/ou outils du domaine du dévelloppement informatique,
+## Prologue
+**Trick & tips,**
 
-Simplement vous aiguiller, faire comprendre les bases, principes et concepts,
-
-Des outils et/ou technologies qui seront abordées ici
+N'as pas pour prétention d'être un formation, sur des techologies et/ou outils du domaine du dévelloppement informatique, simplement vous aiguiller, faire comprendre les bases, principes et concepts, des outils et/ou technologies qui seront abordées ici.
 
 je me permettrais de detailler progressivement
-
 
 ## Sommaire
 
