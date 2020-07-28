@@ -41,8 +41,8 @@ Le language balisé va simplement definir chaque éléments de notre documents p
       ...;
     </style>
   </head>
-  <body></body>
-</html>
+  <body>
+    ...{contenu de la page}...
 ```
 
 Et ce termine ainsi
