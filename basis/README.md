@@ -4,6 +4,9 @@
 
 Ce dossier contient les bases sur les différents technologies et/ou outils abordés par **TRICKS & TIPS**
 
+(Actuellement en cours de redactions)
+
+<!--
 ## Les languages
 
  \- [HTML / CSS](code/html-css.md)
@@ -14,6 +17,8 @@ Ce dossier contient les bases sur les différents technologies et/ou outils abor
  \- [JAVA](code/java.md)
  \- [Basic](code/basic.md)
  \- [Visual Basic](code/vb.md)
+ \- [React](code/react.md)
+ \- [React-native](code/react-native.md)
  \- [C](code/c.md)
  \- [C#](code/csharp.md)
  \- [C++](code/cpp.md) -
@@ -40,4 +45,4 @@ Ce dossier contient les bases sur les différents technologies et/ou outils abor
  \- [API](tools/api.md)
  \- [frameworks](tools/framework.md)
  \- [librairies](tools/library.md) -
-
+ -->
