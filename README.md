@@ -13,7 +13,7 @@ je me permettrais de detailler progressivement
 ## Sommaire
 
 ### [Les bases](basis/README.md)
-- [html / css](basis/html-css.md)
+- [html / css](basis/code/html-css.md)
 - à venir
 
 ### [En allant plus loin](detailed/README.md)
