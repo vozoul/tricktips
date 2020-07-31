@@ -349,4 +349,4 @@ exemple: (non fonctionnel sur github)
 
 ***
 
-**l'appel à la structure extérieure deviens de plus en plus privilégié, pour permettre d'alléger le fichier de structure de celui de présentation, afin d'assigner une tâche défini à chaque format, de façon à facilité la maintenabilité des construction et dévellopements.**
+**l'appel aux ressource externalisées est à privilégié, pour permettre d'alléger le fichier de structure de celui de présentation, afin d'assigner une tâche défini à chaque format, de façon à facilité la maintenabilité des construction et l'évolutivité du dévellopements.**
