@@ -6,7 +6,7 @@ Ce dossier contient les bases sur les différents technologies et/ou outils abor
 
 (Actuellement en cours de redactions)
 
-<!--
+
 ## Les languages
 
  \- [HTML / CSS](code/html-css.md)
@@ -45,4 +45,3 @@ Ce dossier contient les bases sur les différents technologies et/ou outils abor
  \- [API](tools/api.md)
  \- [frameworks](tools/framework.md)
  \- [librairies](tools/library.md) -
- -->
