@@ -1,6 +1,6 @@
 # Trick & tips - HTML
 
-**Rédiger par Vandekerckhove vincent**
+**Rédigé par Vandekerckhove vincent**
 
 **HYPERTEXT MARCKUP LANGUAGE**
 

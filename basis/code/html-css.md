@@ -1,5 +1,8 @@
 # TRICKS & TIPS - Html / Css
-**Par Vandekerckhove Vincent**
+
+### \- **[Acceuil](/README.md)** \- **[Les bases](../README.md)** \-
+
+**Rédigé par Vandekerckhove Vincent**
 
 **Première édition : 28/07/2020**
 
