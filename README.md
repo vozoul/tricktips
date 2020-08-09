@@ -18,3 +18,5 @@ je me permettrais de detailler progressivement
 
 ### [En allant plus loin](detailed/README.md)
 - à venir
+
+### [Tips](tips/README.md)

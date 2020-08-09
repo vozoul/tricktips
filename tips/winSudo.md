@@ -8,7 +8,7 @@ Vous cherchez une methode pour être administrateur de vos ligne de commande sou
 
 Sous windows la commande de base:
 
-`runas <OPTIONS> /useur:<USER> Program`
+`runas <OPTIONS> /user:<USER> Program`
 
 - exemple, ouvrir l'invite commande `cmd` depuis une commande
 
