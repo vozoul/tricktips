@@ -4,9 +4,12 @@
 
 **Scources: https://parlonsgeek.com/sudo-sous-windows/**
 
-Vous cherchez une methode pour être administrateur de vos ligne de commande sous windows ...
+Vous voulez ?
+- Une methode pour être Super utilisateur de vos ligne de commande sous windows ?
 
-Sous windows la commande de base:
+- Retrouver le fonctionnement linux sous windows ?
+
+pour cela sous windows la commande de base:
 
 `runas <OPTIONS> /user:<USER> Program`
 
@@ -14,26 +17,38 @@ Sous windows la commande de base:
 
     `runas /noprofile /user:administrator cmd`
 
-Un peu long ! N'est-ce pas ? Surtout si l'on ajoute des options 
+Un peu long ! N'est-ce pas ?
 
-pour faire fonctionnner la command `sudo` sous les differentes invite de commande utilisées sous windows, quelques etape et finish !!
+Surtout si l'on ajoute des options ...
 
+Pour faire fonctionnner la command `sudo` sous les differentes invite de commande utilisées sous windows, quelques etape et finish !!
 
-- Ouvrez PowerShell (en tant qu'administrateur, ca peut éviter des conflis ou erreurs divers)
-- écrivez les commandes suivantes:
+***
 
-    ```cmd
-        // ajout du gestionnaire de paquet correspondant
+#### Ouvrez PowerShell **
+** **(en tant qu'administrateur, ca peut éviter des conflis ou erreurs divers)**
+
+#### Ecrivez les commandes suivantes:
+
+- ##### Ajout du gestionnaire de paquet
+    ```code
         iex(new-object net.webclient).downloadstring('https://get.scoop.sh')
-
-        // Modifiez les restrictions d'execution
+    ```
+    
+- ##### Modifiez les restrictions d'execution
+    ```code
         set-executionpolicy unrestricted -s cu -f
+    ```
 
-        // Installez la commande au systeme depuis le gestionnaire de paquet
+- ##### Installez la commande au systeme depuis le gestionnaire de paquet
+
+    ```code
         scoop install sudo
     ```
 
 Voila c'est fini !
+
+***
 
 Dès l'ors vous pouvez lancer vos command en temps qu'administrateur ainsi:
 
@@ -43,6 +58,6 @@ example l'invite de commande `cmd`:
 
 `sudo cmd`
 
-plus court, non ?
+Plus court, non ?
 
-Amusez-vous bien !
+Merci de votre lecture, amusez-vous bien !
