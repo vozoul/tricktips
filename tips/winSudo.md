@@ -54,7 +54,7 @@ Voila c'est fini !
 
 ***
 
-Dès l'ors vous pouvez lancer vos command en temps qu'administrateur ainsi:
+Dès l'ors vous pouvez lancer vos command en tant qu'administrateur ainsi:
 
 `sudo <COMMANDE>`
 
