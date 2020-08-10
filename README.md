@@ -14,9 +14,9 @@ je me permettrais de detailler progressivement
 
 ### [Les bases](basis/README.md)
 - [html / css](basis/code/html-css.md)
-- à venir
+- Suite à venir ...
 
 ### [En allant plus loin](detailed/README.md)
-- à venir
+- Suite à venir ...
 
 ### [Ici quelques Tips cool !](tips/README.md)

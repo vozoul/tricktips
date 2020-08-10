@@ -7,6 +7,12 @@ Ce dossier contient les bases sur les différentes technologies et/ou outils abo
 **(Work in progress)**
 
 En cours de progression le travail demande d'éventuelles contributeurs.
+
+ \- [HTML / CSS](code/html-css.md)
+
+ \- Suite à venir ...
+
+<!-- 
 ## Sommaire:
 \- [Des concepts](#concept) - [Les outils](#utils) - [Les Languages](#languages) - [Les documentations](#docs) - [Les données](#data) -
 
@@ -82,4 +88,4 @@ En cours de progression le travail demande d'éventuelles contributeurs.
 
  \- [CSV](data/csv.md)
 
- \- [XML](data/xml.md)
+ \- [XML](data/xml.md) -->
