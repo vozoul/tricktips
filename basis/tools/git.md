@@ -246,12 +246,23 @@ la date puis le message associer
 **TEC = Travail En Cours, en anglais WIP = Work In Progress, cela permet de préciser que la ressource n'est pas encore terminée (très utile pour le travail en groupe)**
 
 ***
-### **Tip** - vous avez la prossibilité de voir les logs en ecriture simplifiée et raccourcie avec `git log --oneline`
+### **Tip** - Vous avez la prossibilité de voir les logs en ecriture simplifiée et raccourcie avec `git log --oneline`
 ```bash
 > git log --oneline
 12e3d09 (HEAD -> master) mon premier commit
 ```
 qui ce lit : \<short sha> (HEAD -> \<branch>) \<message>
+***
+### **Tip** - Vous pouvez ensuite voir le log en détail avec `git log <short_sha>`
+
+```bash
+> git log 12e3d09
+commit 12e3d092872d21739717bac1c84bfd8dfc50928a (HEAD -> master)
+Author: vozoul <vozoul@gmail.com>
+Date:   Tue Aug 11 09:52:57 2020 +0200
+
+    mon premier commit
+```
 ***
 
 à partir d'ici on est près pour envoyer notre `paquet`
