@@ -1,6 +1,6 @@
 # Trick & tips - Git
 
-### \- **[Acceuil](/README.md)** \- **[Les bases](../README.md)** \-
+### \- **[Acceuil](Practice)** \- **[Les bases](Basis)** \-
 
 **Rédiger par Vandekerckhove Vincent**
 

@@ -1,6 +1,6 @@
 # Trick & tips - Les bases de la programmation et ces outils
 
-**[< Retour à l'acceuil](/README.md)**
+**[< Retour à l'acceuil](Basis)**
 
 Ce dossier contient les bases sur les différentes technologies et/ou outils abordés par **TRICKS & TIPS**
 
@@ -8,7 +8,7 @@ Ce dossier contient les bases sur les différentes technologies et/ou outils abo
 
 En cours de progression le travail demande d'éventuelles contributeurs.
 
- \- [HTML / CSS](code/html-css.md)
+ \- [HTML / CSS](basis/code/html)
 
  \- Suite à venir ...
 

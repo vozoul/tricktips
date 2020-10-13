@@ -1,8 +1,8 @@
 # Trick & tips - Déployer vos repos GIT
 
-[< Sommaire](/README.md)
+[< Sommaire](Tips)
 
-[< Tips](./README.md)
+[< Tips](Tips)
 
 ## Préambule
 

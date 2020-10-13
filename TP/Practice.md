@@ -4,4 +4,4 @@
 
 ## Liste des TPs
 
-- [html](html/README.md)
+- [html](index_tp_html)

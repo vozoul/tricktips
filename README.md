@@ -12,11 +12,13 @@ je me permettrais de detailler progressivement
 
 ## Sommaire
 
-### [Les bases](basis/README.md)
-- [html / css](basis/code/html-css.md)
+### [Les bases](Basis)
+- [html](basis/code/html)
+- [css](basis/code/css)
+- 
 - Suite à venir ...
 
-### [En allant plus loin](detailed/README.md)
+### [En allant plus loin](Detailled)
 - Suite à venir ...
 
-### [Ici quelques Tips cool !](tips/README.md)
+### [Ici quelques Tips cool !](Tips)

@@ -1,8 +1,8 @@
 # Trick & tips - Commande `sudo` sous windows
 
-[< Sommaire](/README.md)
+[< Sommaire](Tips)
 
-[< Tips](./README.md)
+[< Tips](Tips)
 
 **Retranscris par Vincent le 09/08/2020**
 

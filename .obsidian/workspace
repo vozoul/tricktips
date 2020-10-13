@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "d6b319dce2829391",
+    "type": "split",
+    "children": [
+      {
+        "id": "55a14d366cec2cf0",
+        "type": "leaf",
+        "dimension": 73.9655172413793,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        },
+        "group": "cce8b1320964c4bb"
+      },
+      {
+        "id": "e86095f8a535a4f5",
+        "type": "leaf",
+        "dimension": 26.03448275862069,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "README.md",
+            "options": {
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1
+            }
+          }
+        },
+        "group": "cce8b1320964c4bb"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61c97faf84090a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a2cfa4da2611246",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5d87e10b0da0f4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a080b8b6d23b832",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7feb12d021f44f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b72510a59c84234",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2cce86137630150",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "basis/code/html-css.md",
+    "basis/code/css.md",
+    "Untitled.md",
+    "TP/Practice.md",
+    "TP/html/index_tp_html.md",
+    "tips/Tips.md",
+    "basis/tools/git.md",
+    "git-scm.com.md",
+    "TP/html/HelloWorld.md"
+  ]
+}
